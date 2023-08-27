@@ -1,7 +1,7 @@
 ---
 date: '2020-02-21'
 title: 'Website V1'
-github: 'https://github.com/kschrock/'
+github: 'https://github.com/kschrock/currentPortfolio'
 external: ''
 tech:
   - Node.js
