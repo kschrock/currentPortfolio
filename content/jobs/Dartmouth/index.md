@@ -1,6 +1,6 @@
 ---
 date: '2020-05-01'
-title: 'Ungraduate Researcher'
+title: 'Undergraduate Researcher'
 company: 'Dartmouth College'
 location: 'Remote'
 range: 'May - August 2020'

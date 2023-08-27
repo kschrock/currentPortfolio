@@ -1,6 +1,6 @@
 ---
 date: '2022-05-01'
-title: 'Software Dev Intern'
+title: 'Software Engineer Intern'
 company: 'Workday'
 location: 'Boulder, CO'
 range: 'May - August 2022'
