@@ -1,10 +1,8 @@
 module.exports = {
   siteTitle: 'Kordell Schrock | Software Engineer',
-  siteDescription:
-    'Kordell Schrock is a software engineer based in Tama, IA. ',
-  siteKeywords:
-    'software engineer, Iowa',
-  siteUrl: 'https://kordellschrock.com',
+  siteDescription: 'Kordell Schrock is a software engineer based in Tama, IA. ',
+  siteKeywords: 'software engineer, Iowa',
+  siteUrl: 'https://kordellschrock.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
