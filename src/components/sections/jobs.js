@@ -158,7 +158,7 @@ const Jobs = ({ data }) => {
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
   const tabs = useRef([]);
-
+  console.log(data)
   const revealContainer = useRef(null);
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
 
@@ -223,7 +223,7 @@ const Jobs = ({ data }) => {
         {data &&
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { title, url, company, range } = frontmatter;
+            const { title, url, location, company, range } = frontmatter;
             return (
               <StyledTabContent
                 key={i}
@@ -243,7 +243,7 @@ const Jobs = ({ data }) => {
                   </StyledCompany>
                 </StyledJobTitle>
                 <StyledJobDetails>
-                  <span>{range}</span>
+                  <span>{range}, {location}</span>
                 </StyledJobDetails>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
               </StyledTabContent>
