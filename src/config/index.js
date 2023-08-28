@@ -4,7 +4,7 @@ module.exports = {
   siteKeywords: 'software engineer, Iowa',
   siteUrl: 'https://kordellschrock.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA',
+  googleAnalyticsID: 'UA-283238183-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Kordell Schrock',
   location: 'Tama, IA',
