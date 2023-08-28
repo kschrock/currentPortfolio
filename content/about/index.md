@@ -4,7 +4,7 @@ avatar: './me.jpg'
 skills:
   - JavaScript
   - HTML & CSS
-  - mySQL DB
+  - mySQL/postgres
   - Java
   - React/Node JS
   - C/C++
