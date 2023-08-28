@@ -6,7 +6,7 @@ skills:
   - HTML & CSS
   - mySQL/postgres
   - Java
-  - React/Node JS
+  - React/Node.js
   - C/C++
   - Verilog
   - Python
