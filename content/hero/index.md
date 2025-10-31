@@ -5,4 +5,4 @@ subtitle: 'I build things for the web.'
 contactText: 'Get In Touch'
 ---
 
-I'm an alumni of Iowa State University with a degree in Computer Science and a minor in Data Science.
+I'm an alumni of the University of Nevada, Las Vegas (UNLV) Casino Gaming Innovation and Iowa State University with a degree in Computer Science and a minor in Data Science.
