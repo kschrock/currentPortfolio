@@ -8,7 +8,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Kordell Schrock',
   location: 'Tama, IA',
-  email: 'kschrock@iastate.edu',
+  email: 'kordellschrock@gmail.com',
   github: 'https://github.com/kschrock',
   socialMedia: [
     {
@@ -19,10 +19,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/k-schrock',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/kordell_schrock',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/kordell.casino',
+    // },
   ],
 
   navLinks: [
