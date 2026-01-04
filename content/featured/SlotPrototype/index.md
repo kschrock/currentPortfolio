@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '4'
 title: 'Slot Machine Prototype'
 cover: './homePage.png'
 github: ''

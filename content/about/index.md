@@ -14,7 +14,7 @@ skills:
   - R
 ---
 
-Howdy! I’m Kordell, a software engineer, passionate about building innovative gaming and casino technologies. My background spans software research and development, with interests especially where they intersect with gaming and casino innovation.
+Howdy! I’m Kordell, a software engineer passionate about developing innovative gaming and casino technology.
 
 I studied Gaming Innovation at the [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) , focusing on Slot Machine Design in 2024. I graduated [Iowa State University](https://www.iastate.edu/) in 2023 with a Computer Science and Data Science degree.
 

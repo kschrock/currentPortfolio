@@ -1,17 +1,15 @@
 ---
-date: '4'
-title: 'Meskwaki Higher Ed Prototype'
+date: '5'
+title: 'Slot Game - Howling Wolf'
 cover: './homepage.png'
-github: 'https://meskwaki-higher-ed-test.herokuapp.com/'
-external: 'https://meskwaki-higher-ed-test.herokuapp.com/'
+# github: 'https://kordellschrock.itch.io/slot-game-howling-wolf'
+external: 'https://kordellschrock.itch.io/slot-game-howling-wolf'
 tech:
-  - Postgres
-  - Express
-  - React
-  - Node.js
-  - Heroku
-  - Amazon Web Serveice (AWS)
+  - Unity
+  - .NET
+  - C#
+  - DOTween
 showInProjects: true
 ---
 
-Meskwaki Higher Ed is a prototype web app that automates the process of approving student applications. The app creates student and admin accounts, then links the data given from the student, such as applications, transcripts, and courses. Admins can easily see the applications on the backend and approve or disapprove them. The app also stores all the information on [AWS](https://aws.amazon.com/) and is deployed on [Heroku](https://www.heroku.com/).
+Howling Wolf is a prototype casino slot game built using Unity and DOTween that demonstrates professional reel mechanics and bonus feature design. The project implements payline math, wild and scatter logic, and free spin retriggers using C#. The systems are designed to mirror real-world slot machine behavior and production-style casino game architecture.
