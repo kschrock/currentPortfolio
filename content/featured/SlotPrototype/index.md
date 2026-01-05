@@ -3,7 +3,7 @@ date: '4'
 title: 'Slot Machine Prototype'
 cover: './homePage.png'
 github: ''
-external: ''
+external: '/blog/slot-machine-prototype'
 tech:
   - Unity
   - .NET
